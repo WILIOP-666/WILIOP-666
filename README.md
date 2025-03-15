@@ -1,5 +1,53 @@
-# 💫 About Me:
-# 👋 Hello, World! I'm Willi  <br>**Full Name:** Ida Bagus Willi Parmita  <br>**Pronouns:** He/Him  <br>**Passion:** Code, Create, Innovate  <br><br>Selamat datang di profil GitHub saya! Saya seorang pengembang yang antusias, ahli dalam berbagai bahasa pemrograman, dan selalu siap untuk menjelajahi teknologi baru. Mari kita bangun sesuatu yang luar biasa bersama!<br><br>---<br><br>## 🚀 About Me  <br>- 🌍 Based in: Bali, Indonesia  <br>- 💻 Specialties: **JavaScript, HTML, CSS, PHP, Lua, Bash, Assembly, Disassembly**  <br>- 🎯 Motto: "Code is poetry, logic is art."  <br>- ⚡ Fun Fact: Saya suka mengubah ide menjadi kode yang hidup!<br><br>---<br><br>## 🔧 Tech Stack  <br>| Frontend       | Backend     | Scripting       | Low-Level       |<br>|-----------------|-------------|-----------------|-----------------|<br>| HTML           | PHP         | Bash            | Assembly        |<br>| CSS            |             | Lua             | Disassembly     |<br>| JavaScript     |             |                 |                 |<br><br>---<br><br>## 📱 Connect With Me  <br>- **[LinkedIn](https://www.linkedin.com/in/ida-bagus-willi-parmita-a595252b3/)** - Let’s network professionally!  <br>- **[Instagram](https://www.instagram.com/nxtmowil_/)** - Follow my journey beyond code!  <br><br>---<br><br>## 🌟 Projects  <br>*(Coming soon! Stay tuned for some awesome repos!)*  <br><br>---<br><br>## 💡 Why I Code  <br>Saya percaya bahwa teknologi adalah alat untuk mewujudkan imajinasi. Dari web interaktif hingga optimasi low-level, saya menikmati setiap prosesnya. Apa yang kamu ingin ciptakan hari ini?<br><br>---<br><br>**"If it works, it’s not stupid!"**  <br>— Willi, probably<br><br>---<br><br>*Generated with ❤️ on March 15, 2025*
+# 💫 About Me
+
+👋 Hello, World! I'm Willi  
+**Full Name:** Ida Bagus Willi Parmita  
+**Pronouns:** He/Him  
+**Passion:** Code, Create, Innovate  
+
+Selamat datang di profil GitHub saya! Saya seorang pengembang yang antusias, ahli dalam berbagai bahasa pemrograman, dan selalu siap untuk menjelajahi teknologi baru. Mari kita bangun sesuatu yang luar biasa bersama!
+
+---
+
+## 🚀 About Me
+- 🌍 Based in: Bali, Indonesia  
+- 💻 Specialties: **JavaScript, HTML, CSS, PHP, Lua, Bash, Assembly, Disassembly**  
+- 🎯 Motto: "Code is poetry, logic is art."  
+- ⚡ Fun Fact: Saya suka mengubah ide menjadi kode yang hidup!
+
+---
+
+## 🔧 Tech Stack
+| Frontend   | Backend | Scripting | Low-Level  |
+|------------|---------|-----------|------------|
+| HTML       | PHP     | Bash      | Assembly   |
+| CSS        |         | Lua       | Disassembly|
+| JavaScript |         |           |            |
+
+---
+
+## 📱 Connect With Me
+- **[LinkedIn](https://www.linkedin.com/in/ida-bagus-willi-parmita-a595252b3/)** - Let’s network professionally!  
+- **[Instagram](https://www.instagram.com/nxtmowil_/)** - Follow my journey beyond code!
+
+---
+
+## 🌟 Projects
+*(Coming soon! Stay tuned for some awesome repos!)*
+
+---
+
+## 💡 Why I Code
+Saya percaya bahwa teknologi adalah alat untuk mewujudkan imajinasi. Dari web interaktif hingga optimasi low-level, saya menikmati setiap prosesnya. Apa yang kamu ingin ciptakan hari ini?
+
+---
+
+**"If it works, it’s not stupid!"**  
+— Willi, probably
+
+---
+
+*Generated with ❤️ on March 15, 2025*
 
 
 ## 🌐 Socials:
