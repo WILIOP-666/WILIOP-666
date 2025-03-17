@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WILIOP-666&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=WILIOP-666&theme=gruvbox&hide_border=false)<br/>
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=WILIOP-666&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://camo.githubusercontent.com/c523a4057073cc94bd5f41e2764485416923113abc2aeaab990ad5a8ee31bb50/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d57494c494f502d363636267468656d653d67727576626f7826686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WILIOP-666&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 # 💫 About Me
 
