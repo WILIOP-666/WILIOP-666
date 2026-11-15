@@ -35,11 +35,14 @@
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
   </a>
+  <a href="https://www.roblox.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/roblox/ffffff" alt="Roblox" width="40" height="40"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell/Bash" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" alt="Assembly" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" height="28"/>
   </a>
 </p>
 
@@ -60,20 +63,24 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ghidra/ghidra-original.svg" alt="Ghidra" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">GitHub Metrics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WILIOP-666&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WILIOP-666&show_icons=true&theme=radical&hide_title=true&v=2" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WILIOP-666&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <br clear="left"/>
 
+<!-- Animasi Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILIOP-666/WILIOP-666/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILIOP-666/WILIOP-666/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WILIOP-666/WILIOP-666/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WILIOP-666/WILIOP-666/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WILIOP-666/WILIOP-666/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WILIOP-666/WILIOP-666/output/github-snake.svg">
 </picture>
 
 ---
